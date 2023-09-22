@@ -26,7 +26,7 @@ def get_engine():
     Create Postgres engine
     :return: engine
     """
-    conn_string = 'postgresql+psycopg2://postgres:micentos@localhost:5432/dell_challenge'
+    conn_string = 'postgresql+psycopg2://xxxx:xxxx@localhost:5432/dell_challenge'
     db = create_engine(conn_string)
     return db
 
