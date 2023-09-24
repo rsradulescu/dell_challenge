@@ -66,6 +66,7 @@ In the solution I created a view that gets the data for the 10 countries that ha
 
 A possible positive correlation is observed between the number of deaths registered and the life expectancy of the inhabitants. As the number of registered deaths increases, there is also a greater tendency towards longer life expectancy. With this sample we can infer that countries where the population is mostly elderly, and life expectancy is greater, will also have a greater chance of dying when contracting covid.
 
-
-
 SOURCE: https://www.kaggle.com/datasets/mashrurayon/gender-metrics-by-country
+
+# Exercise 6 (added after submitting the solution)
+Analysis and graphical representation example developed with Kaggle Notebook in Python. 
